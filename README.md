@@ -1,7 +1,7 @@
 <div align='center'>
 <h1>Hi there, I am Kevin!</h1>
 
-<img src='./src/banner.jpg'>
+<img src='./src/banner1.png'>
 </div>
 
 #
