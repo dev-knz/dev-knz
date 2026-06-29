@@ -6,7 +6,7 @@
 
 #
 
-<h3 align="center">Estudante de Inteligência Artifical na Universidade Federal de Mato Grosso do Sul (FACOM)
+<h3 align="center">Estudante de Inteligência Artificial na Universidade Federal de Mato Grosso do Sul (FACOM)
 
 #
 
